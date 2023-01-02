@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <h1 align="center"> Prodict - English Dictionary </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="https://prodict.net/">
     <img alt="Logo" title="GitPoint" src="https://raw.githubusercontent.com/prodictee/prodictee.github.io/51f95f3db95bd15cc8f735f2c32fcb97a9d83551/landing.jpg" width=";100%">
   </a>
 </p>
